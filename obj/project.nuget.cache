@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEn1ov6FSjRYCJOWb4m+B+t9qMgM+hMVhMehyZbHJrafw5I3szOe/9My8iZKKf82ys61QF+JIi+OEegeifekKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penny\\Documents\\TestFolder\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penny\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
